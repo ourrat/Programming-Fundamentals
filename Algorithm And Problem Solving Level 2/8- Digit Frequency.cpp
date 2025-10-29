@@ -29,3 +29,4 @@ int main()
     cout << "Digit " << DigitToCheck << " Frequency is ";
     cout << CountDigitFrequency(Number, DigitToCheck) << " Time(s).";
 }
+
