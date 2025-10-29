@@ -34,3 +34,4 @@ int main()
         cout << "No ,it is NOT a Palindrome Number.";
     }
 }
+
