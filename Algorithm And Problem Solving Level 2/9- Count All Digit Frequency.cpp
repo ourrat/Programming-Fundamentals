@@ -35,3 +35,4 @@ int main()
     int Number = ReadNumber("Please Enter a Positive Number: ");
     PrintAllDigitFrequency(Number);
 }
+
