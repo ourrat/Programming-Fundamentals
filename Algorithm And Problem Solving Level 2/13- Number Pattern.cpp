@@ -23,3 +23,4 @@ int main()
 {
     PrintInvertedPattern(ReadNumber("Please Enter a Positive Number: "));
 }
+
