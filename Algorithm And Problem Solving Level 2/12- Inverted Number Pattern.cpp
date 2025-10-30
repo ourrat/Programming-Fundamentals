@@ -25,3 +25,4 @@ int main()
     int Number = ReadNumber("Please Enter a Positive Number: ");
     PrintInvertedNumberPattern(Number);
 }
+
